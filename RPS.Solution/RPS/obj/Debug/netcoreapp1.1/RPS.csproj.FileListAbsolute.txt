@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/rock/RPS.Solution/RPS/bin/Debug/netcoreapp1.1/RPS.deps.json
+/Users/Guest/Desktop/rock/RPS.Solution/RPS/bin/Debug/netcoreapp1.1/RPS.dll
+/Users/Guest/Desktop/rock/RPS.Solution/RPS/bin/Debug/netcoreapp1.1/RPS.pdb
+/Users/Guest/Desktop/rock/RPS.Solution/RPS/obj/Debug/netcoreapp1.1/RPS.AssemblyInfo.cs
+/Users/Guest/Desktop/rock/RPS.Solution/RPS/obj/Debug/netcoreapp1.1/RPS.dll
+/Users/Guest/Desktop/rock/RPS.Solution/RPS/obj/Debug/netcoreapp1.1/RPS.pdb
