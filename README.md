@@ -1,18 +1,18 @@
-# _Scrubble_
+# _Rock Scissors Paper_
 
 #### _2/14/2019_
 
 #### By _**Pavel Zanchuk and Olha Wysocky**_
 
 ## Description
-_This is a program that calculates the scrabble score for the word the user inputs._
+_This is a program that determines the winner in the game Rock Scissors Paper._
 
 ### Specs
 | Behavior - Plain English | Input | Output |
 | :-------------     | :------------- | :------------- |
-| **Program evaluates if the input is a number** | User input: 1 | "I am sorry, I can't evaluate a number!" |
-| **Program evaluates if there is no input** | User input: "" | "I am sorry, you didn't eneter a word!" |
-| **Program counts each letter** | User input: "beard" | Output: 8 |
+| **Program checks winner** | User input: 3,2 | "Player 1 wins!"|
+| **Program checks winner** | User input: 3,1 | "Player 2 wins!"|
+| **Program checks winner** | User input: 2,2 | "Draw!"|
 
 
 ## Known Bugs
